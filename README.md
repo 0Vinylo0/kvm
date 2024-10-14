@@ -5,7 +5,7 @@
 
 ## Contenido
 
-Instalacion y COnfiguraciones
+Instalacion y Configuraciones
 
 1. [Introduccion a KVM](doc/introduccion_kvm.md)
 2. [Instalacion KVM](doc/instalacion_kvm.md)
