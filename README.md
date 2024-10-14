@@ -5,10 +5,10 @@
 
 ## Contenido
 
-- [1º-Introduccion a KVM](doc/introduccion_kvm.md)
-- [2º-Instalacion KVM](doc/instalacion_kvm.md)
-- [3º-Redes KVM](doc/redes_kvm.md)
-- [4º-Creacion de MV en KVM](doc/creacion_mv.md)
-- [5º-Storage pools](doc/pools.md)
-- [6º-Gestion de discos](doc/gestion_discos.md)
-- [7º-Clonaciones](doc/clonaciones.md)
+1. [Introduccion a KVM](doc/introduccion_kvm.md)
+2. [Instalacion KVM](doc/instalacion_kvm.md)
+3. [Redes KVM](doc/redes_kvm.md)
+4. [Creacion de MV en KVM](doc/creacion_mv.md)
+5. [Storage pools](doc/pools.md)
+6. [Gestion de discos](doc/gestion_discos.md)
+7. [Clonaciones](doc/clonaciones.md)
