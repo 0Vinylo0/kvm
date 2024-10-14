@@ -1,6 +1,6 @@
 <div align=center><h1>KVM</h1>
+<div align=right><img src="https://github.com/0Vinylo0/kvm/blob/main/img/images.jpeg" width="480" height="380"/></div>
 <p>KVM (Kernel-based Virtual Machine) es una tecnología de virtualización en Linux que permite ejecutar múltiples máquinas virtuales usando soporte de hardware. Es eficiente, seguro y de código abierto, ideal para servidores y entornos de desarrollo. Se usa con QEMU para mejorar la emulación de hardware.</p>
-<img src="https://github.com/0Vinylo0/kvm/blob/main/img/images.jpeg" width="480" height="380"/>
 </div>
 
 ## Contenido
