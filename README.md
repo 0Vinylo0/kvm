@@ -7,13 +7,12 @@
 
 Instalacion y Configuraciones
 
-1. [Introduccion a KVM](doc/introduccion_kvm.md)
-2. [Instalacion KVM](doc/instalacion_kvm.md)
-3. [Redes KVM](doc/redes_kvm.md)
-4. [Creacion de MV en KVM](doc/creacion_mv.md)
-5. [Storage pools](doc/pools.md)
-6. [Gestion de discos](doc/gestion_discos.md)
-7. [Clonaciones](doc/clonaciones.md)
+1. [Instalacion KVM](doc/instalacion_kvm.md)
+2. [Redes KVM](doc/redes_kvm.md)
+3. [Creacion de MV en KVM](doc/creacion_mv.md)
+4. [Storage pools](doc/pools.md)
+5. [Gestion de discos](doc/gestion_discos.md)
+6. [Clonaciones](doc/clonaciones.md)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
