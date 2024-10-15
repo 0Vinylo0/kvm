@@ -100,10 +100,3 @@ sudo apt autoremove -y
 - [Documentación oficial de KVM](https://www.linux-kvm.org/page/Main_Page)
 - [Guía de virt-manager](https://virt-manager.org/)
 
-## Contribuciones
-
-Las contribuciones a este repositorio son bienvenidas. Por favor, abre un issue o crea un pull request con tus mejoras o sugerencias.
-
-## Licencia
-
-Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
