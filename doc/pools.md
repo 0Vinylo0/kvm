@@ -59,4 +59,3 @@ virsh pool-define pool.xml
 
 ## Recursos adicionales
 
-- [Documentación oficial de redes en KVM](https://wiki.libvirt.org/page/Networking)
