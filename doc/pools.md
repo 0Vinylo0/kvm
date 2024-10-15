@@ -60,4 +60,3 @@ virsh pool-define pool.xml
 ## Recursos adicionales
 
 - [Documentación oficial de redes en KVM](https://wiki.libvirt.org/page/Networking)
-- [Guía de configuración de bridges en Linux](https://wiki.debian.org/BridgeNetworkConnections)
