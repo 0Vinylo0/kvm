@@ -6,7 +6,6 @@ KVM (Kernel-based Virtual Machine) es una solución de virtualización completa 
 
 - Un procesador compatible con virtualización (Intel VT o AMD-V).
 - Un sistema operativo basado en Debian (Ubuntu 20.04 o superior recomendado).
-- Acceso de superusuario (root) o permisos de `sudo`.
 
 ## Paso 1: Verificar la compatibilidad de virtualización del hardware
 
