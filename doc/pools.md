@@ -1,13 +1,5 @@
 # Pools en KVM (Kernel-based Virtual Machine)
 
-Este documento proporciona una visión general sobre cómo funcionan los pools en KVM y cómo se pueden utilizar para gestionar recursos en entornos de virtualización.
-
-## ¿Qué es KVM?
-
-KVM (Kernel-based Virtual Machine) es una solución de virtualización que permite ejecutar múltiples sistemas operativos en una sola máquina física. Cada sistema operativo se ejecuta en una máquina virtual (VM) que está completamente aislada de las demás.
-
-## ¿Qué son los Pools?
-
 En KVM, un pool es un conjunto de recursos que se pueden utilizar para crear y gestionar máquinas virtuales. Los pools permiten a los administradores organizar y reutilizar recursos de manera eficiente. Existen diferentes tipos de pools, como pools de almacenamiento, de red y de memoria.
 
 ### Tipos de Pools
