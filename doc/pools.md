@@ -17,7 +17,7 @@ Este comando mostrará todos los pools de almacenamiento configurados, indicando
 Para crear un nuevo pool de almacenamiento, utiliza el comando `virsh pool-define-as`. Aquí hay un ejemplo para crear un pool de tipo `dir`:
 
 ```bash
-virsh pool-define-as     --name nombre_del_pool     --type dir     --target /ruta/al/directorio
+virsh pool-define-as --name nombre_del_pool --type dir --target /ruta/al/directorio
 ```
 
 ### Parámetros:
@@ -71,4 +71,3 @@ Para eliminar un pool de almacenamiento, primero debes detenerlo y luego elimina
 ## Referencias
 
 - [Documentación oficial de libvirt](https://libvirt.org/)
-- [Comandos de `virsh`](https://libvirt.org/virshcmdref.html)
